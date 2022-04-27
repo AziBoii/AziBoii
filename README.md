@@ -9,3 +9,4 @@ AziBoii/AziBoii is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 https://opensea.io/AZIBOII
+https://opensea.io/NFT_illustration_DXB
